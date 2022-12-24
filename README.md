@@ -6,4 +6,3 @@ Java Básico
 
 • [História do Java](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&ab_channel=CursoemV%C3%ADdeo)
 
-•Alterando o conteúdo de um arquivo de forma local
