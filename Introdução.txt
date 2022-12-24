@@ -1,0 +1,11 @@
+A Linguagem Java é composta por um conjunto bem definido com fácil entendimento que são utilizadas em páginas Web de forma interativa e dinâmica,
+softwares, aplicativos, dentre outras funcionalidades.
+O Java tem como objetivo funcionar em qualquer plataforma com o conceito WORA (Write Once Run Anywhere).
+Sendo um recurso indepentende de plataforma por ser complilado em bytecode, fazendo com que o Java portátil, assim os desenvolvedores podem obter o mesmo resultado trabalhando em qualquer computador e de qualquer lugar e o que facilita isso é o JVM (Java Virtual Machine) e o bytecode.
+Em relação a segurança, o Java minimiza quaisquer ameaças como vírus, adulteração dentre outros problemas. Pois o mesmo fornece recursos de segurança para programadores, além de recursos de criptografia e decriptografia trazendo proteção para seus dados.
+Contendo quatro ambientes de desenvolvimento Java, sendo elas o Java Standard Edition (Java SE), Java Enterprise Edition (Java EE), Java Micro Edition (Java ME) e a plataforma de software multimídia (JavaFX).
+•JSE → É a base da plataforma, contendo o ambiente de execução e as bibliotecas comuns, direcionado PCs e servidores.
+•JEE → Voltada para desenvolvimento corporativo e Web, contém diversos framesworks, como JPA (Java Persistence API), JSP (Java Server Pages) e etc.
+•JME → Desenvolvimento para aplicações em dispositivos embarcados e móveis.
+•JFX → Combinada com o Java, permite criação e implementação de aplicações com conteúdo de áudio, video e com aparência moderna.
+Sabendo que pode ser desenvolvido vários tipos de cenários de negócio, temos as ferramentas de desenvolvimento, o java é subdivido em componente para desenvolvimento e de execução, sendo eles: Java Development Kit (JDK) e o Java Runtime Environment (JRE).
