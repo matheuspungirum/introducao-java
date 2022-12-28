@@ -1,5 +1,7 @@
 # Introdução ao Java
 Java Básico 
+    ○ Tipo de Anatomia
+    ○ Tipos de variáveis
 
 ## Conteúdo
 • [Sobre o Java](https://glysns.gitbook.io/java-basico/)
