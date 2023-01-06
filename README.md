@@ -3,6 +3,7 @@ Java Básico
 
     ○ Anatomia das classes
     ○ Tipos e variáveis
+    ○ Lógica Condicional e Controle de Fluxo
 
 ## Conteúdo
 • [Sobre o Java](https://glysns.gitbook.io/java-basico/)
