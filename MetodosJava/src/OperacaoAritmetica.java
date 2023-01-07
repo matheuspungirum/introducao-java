@@ -1,6 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
-
-public class OperacaoAritimetica {
+public class OperacaoAritmetica {
     public static void soma(int n1, int n2){
         int resultado = n1 + n2;
         System.out.println("o resultado da soma de " + n1 + " e " + n2 + " é " + resultado);
